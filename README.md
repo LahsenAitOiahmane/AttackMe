@@ -823,8 +823,3 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 ## Support
 
 For questions or issues, please open an issue on the repository.
-
----
-
-**Remember: With great power comes great responsibility. Use these tools ethically and legally!** 🛡️
-
